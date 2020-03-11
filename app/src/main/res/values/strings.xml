@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OCR Demo</string>
+    <string name="find_text">Extract text</string>
+    <string name="take_pic">Import picture</string>
+    <string name="select_image_for_text_recognition">Select image for text recognition</string>
+    <string name="choose_an_image">Import image to detect text</string>
+</resources>
